@@ -1,2 +1,3 @@
-# aphrodite
-Just simple telegram bot
+# Aphrodite
+
+Just simple telegram bot with Cloudflare Worker
